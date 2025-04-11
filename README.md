@@ -1,7 +1,8 @@
 ## 👋 Hello! I'm Jinah Han (한진아)
 
 
-I'm a **Full-stack Developer** with 7 years of experience, specializing in **SRE-based DevOps**, large-scale data handling, and cloud infrastructure. I’m passionate about building scalable, secure systems and love learning new technologies to enhance service reliability.
+I'm a **Full-stack Developer** with 7 years of experience in both backend and frontend. I focus on building scalable systems and intuitive user experiences using Java, Vue.js, and Python. From new feature development to system maintenance, I aim to create stable and user-friendly services through continuous learning and improvement.
+
 
 
 ## 💼 Experience
@@ -16,6 +17,7 @@ I'm a **Full-stack Developer** with 7 years of experience, specializing in **SRE
 - Built **OAM, SAM, SET** and more systems using **Java, Vue.js, GraphQL**
 - Migrated legacy Windows apps to modern web platforms
 - Improved UX, async processing, and system performance
+
 
 
 ## 🧰 Tech Stack
@@ -36,10 +38,12 @@ IntelliJ IDEA / VS Code / GitLab / JIRA / OpenFaaS
 C / C++ / MFC / WPF / XAML
 
 
+
 ## 🌱 I'm currently...
 - Preparing to re-enter the job market (2025)
 - Reflecting on personal and professional growth
 - Exploring new opportunities in software engineering and cloud architecture
+
 
 
 ## 📫 How to reach me
