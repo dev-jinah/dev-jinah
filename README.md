@@ -1,19 +1,47 @@
-## 👋 Hello, I'm Jinah!
+## 👋 Hello! I'm Jinah Han (한진아)
 
-I come from South Korea. I have 7 years of experience as a Full-Stack developer, specializing in service management and backend system/UI development/operations using JAVA and Vue.js. I've also worked on projects using C++ and C#. I am open to learning various languages, including Python, and I have a continuous passion for development.
 
-## 🚀 Skills
+I'm a **Full-stack Developer** with 7 years of experience, specializing in **SRE-based DevOps**, large-scale data handling, and cloud infrastructure. I’m passionate about building scalable, secure systems and love learning new technologies to enhance service reliability.
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+## 💼 Experience
+
+### 🏢 Cafe24 (2021.08 - 2024.05) - SRE Tech (Full-stack Developer)
+- Built and scaled **Magento Edge Management Tool** for over 1M domains
+- Developed **YouTube Shopping Access Control** backend
+- **Applied an algorithm to detect VIPs under DDoS attacks and distributed traffic to prevent overload on specific servers**
+- Automated backup and monitoring with **Grafana**, **Slack**, and **Kubernetes**
+
+### 🏢 IZEX (2017.04 - 2021.07) - Research Console Team
+- Built **OAM, SAM, SET** and more systems using **Java, Vue.js, GraphQL**
+- Migrated legacy Windows apps to modern web platforms
+- Improved UX, async processing, and system performance
+
+
+## 🧰 Tech Stack
+
+**Languages & Frameworks**  
+Java / Vue.js / JavaScript / Spring Boot / GraphQL / HTML / CSS / Python / TypeScript
+
+**DevOps & Infra**  
+Docker / Kubernetes / Jenkins / AWS / Redis / Kafka / Linux / Grafana
+
+**Databases**  
+MariaDB / MySQL / Elasticsearch / etcd / MSSQL
+
+**Tools**  
+IntelliJ IDEA / VS Code / GitLab / JIRA / OpenFaaS
+
+**Additional Experience**  
+C / C++ / MFC / WPF / XAML
+
+
+## 🌱 I'm currently...
+- Preparing to re-enter the job market (2025)
+- Reflecting on personal and professional growth
+- Exploring new opportunities in software engineering and cloud architecture
+
 
 ## 📫 How to reach me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jinah-dev)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jahappy.it@gmail.com)
