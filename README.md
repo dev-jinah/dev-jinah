@@ -40,13 +40,6 @@ C / C++ / MFC / WPF / XAML
 
 
 
-## 🌱 I'm currently...
-- Preparing to re-enter the job market (2025)
-- Reflecting on personal and professional growth
-- Exploring new opportunities in software engineering and cloud architecture
-
-
-
 ## 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jinah-dev)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jahappy.it@gmail.com)
