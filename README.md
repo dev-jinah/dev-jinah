@@ -14,9 +14,10 @@ I'm a **Full-stack Developer** with 7 years of experience in both backend and fr
 - Automated backup and monitoring with **Grafana**, **Slack**, and **Kubernetes**
 
 ### 🏢 IZEX (2017.04 - 2021.07) - Research Console Team
-- Built **OAM, SAM, SET** and more systems using **Java, Vue.js, GraphQL**
-- Migrated legacy Windows apps to modern web platforms
-- Improved UX, async processing, and system performance
+- Developed and maintained a new console admin program for the company's NetHelper solution.
+- Implemented features for software license allocation and system configuration management, including security policies, power management, and user/holiday settings.
+- Improved asset management process: Developed a physical asset registration, approval workflow, and reporting system.
+- Developed the NetHelper program using Java, Vue.js, MySQL, C#, WPF, C++, and MFC for asset and software license management.
 
 
 
