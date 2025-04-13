@@ -10,7 +10,7 @@ I'm a **Full-stack Developer** with 7 years of experience in both backend and fr
 ### 🏢 Cafe24 (2021.08 - 2024.05) - SRE Tech (Full-stack Developer)
 - Built and scaled **Magento Edge Management Tool** for over 1M domains
 - Developed **YouTube Shopping Access Control** backend
-- **Applied an algorithm to detect VIPs under DDoS attacks and distributed traffic to prevent overload on specific servers**
+- **Built a DDoS response system with a VIP-based distribution algorithm to avoid server overload.**
 - Automated backup and monitoring with **Grafana**, **Slack**, and **Kubernetes**
 
 ### 🏢 IZEX (2017.04 - 2021.07) - Research Console Team
